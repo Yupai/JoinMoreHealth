@@ -22,6 +22,7 @@ class Main extends PluginBase implements Listener {
     public function OnDisable(){
         $this->getLogger()->info(TextFormat::RED . "JoinMoreHealth by Yupai Disable!");
     }
+    
     public function onRespawn(PlayerRespawnEvent $event) {
     $jmh = $this->getConfig();
     $hearts = $jmh->get("Number-of-Hearts");
@@ -30,5 +31,5 @@ class Main extends PluginBase implements Listener {
     $player->setMaxHealth($hearts);
     $player->setHealth($hearts);
     $player->sendTip("§b§l≥ §r§eYou have " . $hearts . " §cHearts §b§l≤");
-}
+    }
 }
