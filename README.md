@@ -1,4 +1,5 @@
 # JoinMoreHealth
+Version: 1.1
 [PocketMine-MP Plugin] Add more hearts when the player joins.
 It was tested in:
 * Genisys
