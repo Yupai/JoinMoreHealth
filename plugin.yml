@@ -1,7 +1,7 @@
 name: JoinMoreHealth 
 author: Yupai
 description: "Add More Hearts, when the player joins"
-version: 1.0
+version: 1.1
 api: 2.0.0
 main: yupai\JoinMoreHealth\Main
 
