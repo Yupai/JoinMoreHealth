@@ -7,6 +7,7 @@ use pocketmine\event\Listener;
 use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\utils\TextFormat;
+use pocketmine\entity\Effect;
 use pocketmine\event\player\PlayerRespawnEvent;
 use pocketmine\utils\Config;
 
@@ -29,6 +30,7 @@ class Main extends PluginBase implements Listener {
 
     $player->setMaxHealth($hearts);
     $player->setHealth($hearts);
+    $player->removeAllEffects();
     $player->sendTip("§b§l≥ §r§eYou have " . $hearts . " §cHearts §b§l≤");
-}
+    }
 }
