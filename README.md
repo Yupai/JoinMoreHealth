@@ -12,7 +12,7 @@ Add more hearts when the player joins.
 In the config put number of Hearts when the player joins.
 
 <h4>Permissions</h4>
-For the moment **JoinMoreHealth** doesn't have permissions.
+For the moment *JoinMoreHealth* doesn't have permissions.
 
 <h4>Tested</h4>
 *JoinMoreHealth* was tested in:
