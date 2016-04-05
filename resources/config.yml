@@ -1,6 +1,6 @@
 ---
 #JoinMoreHealth by Yupai config file.
 
-#The number of Hearts when the player joins.
+#Number of Hearts when the player joins.
 Number-of-Hearts: 40
 ...
