@@ -1,4 +1,4 @@
-<center><h2>JoinMoreHealth</h2><center>
+<h2>JoinMoreHealth</h2>
 
 <h4>Version: 1.1</h4>
 
