@@ -29,8 +29,8 @@ class Main extends PluginBase implements Listener {
     $hearts = $jmh->get("Number-of-Hearts");
     $player = $event->getPlayer();
 
-    $player->setMaxHealth($hearts);
-    $player->setHealth($hearts);
+    $player->setMaxHealth($hearts * 2);
+    $player->setHealth($hearts * 2);
     $player->removeAllEffects();
     $player->sendTip("§b§l≥ §r§eYou have " . $hearts . " §cHearts §b§l≤");
     }
