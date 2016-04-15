@@ -1,6 +1,6 @@
 <h2>JoinMoreHealth</h2>
 
-<h4>Version: 1.1</h4>
+<h4>Version: 1.2</h4>
 
 <h4>Type</h4>
 PocketMine-MP Plugin.
@@ -9,7 +9,7 @@ PocketMine-MP Plugin.
 Add more hearts when the player joins.
 
 <h4>Installation Instructions</h4>
-Download *JoinMoreHealth_v1.1.phar*, put it in your puglins and restart your server.
+Download *JoinMoreHealth_v1.2.phar*, put it in your puglins and restart your server.
 
 <h4>Config</h4>
 In the config put number of Hearts when the player joins.
