@@ -1,5 +1,7 @@
 <h2>JoinMoreHealth</h2>
 
+![My image](https://github.com/Yupai/JoinMoreHealth/blob/master/JoinMoreHealth.png)
+
 <h4>Version: 1.2</h4>
 
 <h4>Type</h4>
